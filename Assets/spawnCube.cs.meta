@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 19975cd4389ccc14eb39e4ca20998e5a
+timeCreated: 1443635191
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - bronzeOre: {fileID: 122684, guid: c383bbe24a501df4b9ffd3941192b6d3, type: 2}
+  - silverOre: {fileID: 195730, guid: 4758f45721f7b3e4da33fe8c7cb55c90, type: 2}
+  - goldOre: {fileID: 133122, guid: e9b728659205a0742b9c6fd44264634d, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
